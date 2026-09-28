@@ -29,3 +29,4 @@ date,staff_id,routine,category,start_hour,minutes,interruptions,tool,done
 2026-09-07,S5,invoice_check,finance,14,21,0,manual,1
 2026-09-07,S5,standup_notes,reporting,9,11,1,manual,1
 2026-09-07,S5,social_post,marketing,11,24,3,manual,1
+1

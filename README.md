@@ -18,4 +18,6 @@ Andrii Riezanov
 
 ## How to run
 
-Create vitural envirounment and run: 
+Create virtual environment and run:
+
+python hello_jarvis.py
